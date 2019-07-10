@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "bcrypt": "^3.0.6",
+    "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
     "nodemon": "^1.19.1",
     "nunjucks": "^3.2.0",

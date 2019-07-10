@@ -13,6 +13,10 @@ module.exports = {
         allowNull: false,
         type: Sequelize.STRING
       },
+      email: {
+        allowNull: false,
+        type: Sequelize.STRING
+      },
       avatar: {
         allowNull: true,
         type: Sequelize.STRING
