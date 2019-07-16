@@ -9,7 +9,7 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER,
       },
-      DATE: {
+      date: {
         allowNull: false,
         type: Sequelize.DATE,
       },
